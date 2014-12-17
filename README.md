@@ -1,4 +1,4 @@
-# Go Grep
+# Go grep
 
 Simple grep like search in Go.
 
@@ -9,14 +9,14 @@ Purpose of this project is to have a fun and answer to office challenge from [sh
 As all grep-ish tools do, `go-grep` will recursively search for string in all files for desired path.
 
 ```sh
-go-grep "string" path/
+go-grep "string" path
 ```
 
 ## Licence
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Igor Šarčević
+Copyright (c) 2014 Aleksandar Diklić
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
